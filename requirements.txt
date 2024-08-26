@@ -1,0 +1,5 @@
+tinydb~=4.8.0
+colorama~=0.4.6
+PyYAML~=6.0.1
+matplotlib~=3.9.1
+keyboard~=0.13.5
